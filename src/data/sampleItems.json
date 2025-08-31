@@ -1,0 +1,8 @@
+[
+  { "id": "cement-50kg", "name": "Cement (50kg bag)", "price": 1800, "brand": "UltraCem", "tags": ["cement","bag"], "props": {"compressiveStrengthMPa": 42.5} },
+  { "id": "rebar-10mm-m", "name": "Steel Rebar 10mm (per m)", "price": 350, "brand": "QSteel", "tags": ["steel","rebar"], "props": {"diameter_mm": 10} },
+  { "id": "sand-m3", "name": "Sand (per m3)", "price": 6500, "tags": ["aggregate"], "props": {"type": "river"} },
+  { "id": "pvc-1in-pipe", "name": "PVC Pipe 1\" (per 3m)", "price": 900, "brand": "FlowMax", "tags": ["plumbing","pipe"] },
+  { "id": "led-panel-18w", "name": "LED Panel 18W", "price": 2400, "brand": "BrightLite", "tags": ["electrical","lighting"], "props": {"wattage": 18} },
+  { "id": "1", "name": "Concrete Block", "price": 2.5, "brand": "BuildCo", "tags": ["masonry", "structural"], "props": {"compressiveStrength": "10 MPa","weight": "15 kg"} }
+]
